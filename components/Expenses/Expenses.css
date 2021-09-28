@@ -1,0 +1,10 @@
+.expenses{
+  padding:1rem 2rem;
+  margin:2rem auto;
+  width: 95%;
+  background-color: #2a2a2a;
+  
+}
+.noShow{
+  color:#fff;
+}
